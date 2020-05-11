@@ -1,0 +1,7 @@
+repositories:
+- name: jfrogtest
+    url: https://charts.jfrog.io
+    maintainers:
+      - email: jfrog-solutions-ci@jfrog.com
+        name: jfrogtest
+        
